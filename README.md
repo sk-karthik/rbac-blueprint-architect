@@ -21,7 +21,7 @@ This product stops AI coding engines from introducing typical architecture error
 ### Method 2: Integrating with Claude Code
 In your project repository terminal window, register the capability parameters directly inside the environment context configuration (replace with your final username):
 ```bash
-claude skill add https://github.com/YOUR_GITHUB_USERNAME/rbac-blueprint-architect
+claude skill add https://github.com/sk-karthik/rbac-blueprint-architect
 ```
 
 ## System File Mapping Blueprint
